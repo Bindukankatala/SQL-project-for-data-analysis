@@ -3,40 +3,40 @@
 This project is to design and analyze a relational Movie Database using SQL by creating structured tables, defining relationships, and performing analytical queries. The project focuses on building a normalized schema for movies, directors, and box office data, and applying SQL operations such as joins, subqueries, aggregations, constraints, and filtering to extract meaningful insights. This project demonstrates the ability to work with real-world datasets, enforce data integrity through foreign keys, and perform advanced SQL queries to analyze trends such as average budgets, yearly performance, and director-wise movie details..
 
 ## 📂 Dataset Used
-**[Call Center Records](https://github.com/Bindukankatala/call-center-data-analysis-excel/blob/417ce948bcdd0a007418a67af1de9676e5a265a1/Copy%20of%2007.sample-data-excel-portfolio-project%20og%20dash%20board.xlsx)** 
+**[Call Center Records]([https://github.com/Bindukankatala/call-center-data-analysis-excel/blob/417ce948bcdd0a007418a67af1de9676e5a265a1/Copy%20of%2007.sample-data-excel-portfolio-project%20og%20dash%20board.xlsx](https://github.com/Bindukankatala/SQL-project-for-data-analysis/blob/main/Data%20Tables.sql))** 
 
 ## ❓ Questions {KPIs}
 To derive meaningful insights from the movie database, the analysis focused on answering the following key business questions:
 
 1. **Which movies have the highest and lowest budgets?**  
-   *Budget Performance Analysis*
+   (Budget Performance Analysis)
 
 2. **What is the average movie rating across all films?**  
-   *Quality Benchmarking*
+   (Quality Benchmarking)
 
 3. **How many movies were released each year?**  
-   *Yearly Production Trend*
+   (Yearly Production Trend)
 
 4. **Who are the top directors based on the number of movies directed?**  
-   *Director Productivity*
+   (Director Productivity)
 
 5. **Which movies have budgets higher than the overall average?**  
-   *High-Budget Outlier Identification*
+   (High-Budget Outlier Identification)
 
 6. **What is the average budget by release year?**  
-   *Year-over-Year Budget Trend*
+   (Year-over-Year Budget Trend)
 
 7. **How do movie ratings vary across languages?**  
-   *Audience Preference Insights*
+   (Audience Preference Insights)
 
 8. **What is the minimum, maximum, and average movie duration?**  
-   *Runtime Analysis*
+   (Runtime Analysis)
 
 9. **Which directors consistently produce highly rated movies?**  
-   *Director Quality Assessment*
+   (Director Quality Assessment)
 
 10. **Which languages produce the highest number of movies?**  
-    *Language-Based Market Share*
+    (Language-Based Market Share)
 
 ## ⚙️ Process
 The project was executed using **MySQL** following a structured SQL data analysis workflow:
@@ -66,9 +66,10 @@ The project was executed using **MySQL** following a structured SQL data analysi
    * Identified language-based patterns in production volume and audience ratings.
 
     
-## 📊 Dashboard
-![Call Center Dashboard](https://github.com/Bindukankatala/call-center-data-analysis-excel/blob/417ce948bcdd0a007418a67af1de9676e5a265a1/dashboard-image-excel.png)
-*(The dashboard visualizes Call Trends, Gender Demographics, Representative Performance, and Rating Distributions)*
+## Analysed Data
+![movie tables analysis](https://github.com/Bindukankatala/SQL-project-for-data-analysis/blob/main/Analysis%20Queries.sql)
+![movie tables analysis](https://github.com/Bindukankatala/SQL-project-for-data-analysis/blob/main/Analysis%20Queries%202.sql)
+
 
 ## 💡 Insights Derived from the Project
 By analyzing the SQL queries and exploring relationships across the Movies, Directors, and Box Office tables, the following key insights were uncovered:
