@@ -3,8 +3,8 @@
 This project is to design and analyze a relational Movie Database using SQL by creating structured tables, defining relationships, and performing analytical queries. The project focuses on building a normalized schema for movies, directors, and box office data, and applying SQL operations such as joins, subqueries, aggregations, constraints, and filtering to extract meaningful insights. This project demonstrates the ability to work with real-world datasets, enforce data integrity through foreign keys, and perform advanced SQL queries to analyze trends such as average budgets, yearly performance, and director-wise movie details..
 
 ## 📂 Dataset Used 
-**[movie tables](https://github.com/Bindukankatala/SQL-project-for-data-analysis/blob/main/Data%20Tables.sql)** 
-
+**[Tables](https://github.com/Bindukankatala/SQL-project-for-data-analysis/blob/main/Data%20Tables.sql)** 
+**[Data tables](https://github.com/Bindukankatala/movie-database-management-project-mysql/blob/main/Data%20Insertion.sql)**
 
 ## ❓ Questions {KPIs}
 To derive meaningful insights from the movie database, the analysis focused on answering the following key business questions:
